@@ -3,3 +3,7 @@ hello how are you
 hope you are doing good
 
 hai from slave branch
+
+hello from master
+
+jack and jill in slave
